@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Web : XSS-GPT (SKR CTF)"
+title: "Miscellaneous : Python Calculator (SKR CTF)"
 date: 2023-09-27
-categories: ["CTF", "Web"]
+categories: ["CTF", "Miscellaneous"]
 ---
 The python program use `input()` function to take input from user. The program is vulnerable to **code injection**. Here is the source code :
 
