@@ -32,7 +32,7 @@ The attacker navigate to `/home/nbs` and then download a file (`jahak.sh`) from 
 
 ![](https://raw.githubusercontent.com/faridarif/faridarif.github.io/master/pictures/compromised-jahak.png){:.align-center}
 
-The attacker encrypt the `flag.txt` file and rename it to `important.txt` :
+The attacker encrypt the `flag.txt` and  `important.txt` file :
 
 ![](https://raw.githubusercontent.com/faridarif/faridarif.github.io/master/pictures/compromised-encrypted-file.png){:.align-center}
 
