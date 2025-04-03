@@ -36,7 +36,7 @@ The attacker encrypt the `flag.txt` file and rename it to `important.txt` :
 
 ![](https://raw.githubusercontent.com/faridarif/faridarif.github.io/master/pictures/compromised-encrypted-file.png){:.align-center}
 
-The attacker create a persistent using the command :
+The attacker create a cronjob to automatically run the script.
 
 ![](https://raw.githubusercontent.com/faridarif/faridarif.github.io/master/pictures/compromised-persistent-path.png){:.align-center}
 
